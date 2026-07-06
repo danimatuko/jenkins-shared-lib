@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
+*.iml
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -27,3 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Jenkins shared library local files ###
+lib/
